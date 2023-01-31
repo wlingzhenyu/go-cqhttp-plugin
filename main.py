@@ -18,8 +18,6 @@ class API:
         参数
             mode: str->模式.
             info: str->信息 = None.
-            url: str->url = None.
-            params: dict->参数 = None.
 
         返回：json
         """
